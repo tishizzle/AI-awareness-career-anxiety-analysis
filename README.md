@@ -28,9 +28,8 @@ This project investigates the relationship between awareness of Artificial Intel
 
 ## Tools
 
-* R
-* Statistical Analysis
-* Data Visualization
+* SPSS
+* Microsoft Excel
 
 ## Skills Demonstrated
 
@@ -45,7 +44,3 @@ This project investigates the relationship between awareness of Artificial Intel
 
 This project was completed as part of a group academic project.
 
-## Author
-
-Ritika Patel
-M.Sc. Statistics, MIT World Peace University
